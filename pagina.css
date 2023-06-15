@@ -1,0 +1,692 @@
+.Titulo { 
+	color:rgba(0, 0, 0, 1);
+	width:258px;
+	height:93px;
+	position:absolute;
+	left:446px;
+	top:121px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.SubTitulo { 
+	color:rgba(0, 0, 0, 1);
+	width:668px;
+	height:170px;
+	position:absolute;
+	left:341px;
+	top:278px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:48px; 
+	letter-spacing:0;
+}
+.Desen { 
+	color:rgba(0, 0, 0, 1);
+	width:668px;
+	height:170px;
+	position:absolute;
+	left:870px;
+	top:4080px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:48px; 
+	letter-spacing:0;
+}
+.Loc { 
+	color:rgba(0, 0, 0, 1);
+	width:668px;
+	height:170px;
+	position:absolute;
+	left:870px;
+	top:4400px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:48px; 
+	letter-spacing:0;
+}
+.FundoCor { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	height:620px;
+	position:absolute;
+	left:-10px;
+	top:0px;
+}
+.FundoCor2 { 
+	background-color:#403c3c21;
+	width:100%;
+	display: flex;
+	justify-content: space-around;
+	height:5200px;
+	position:absolute;
+	left:-10px;
+	top: 0px
+}	
+.FundoCor3 { 
+	background-color:#ffffff;
+	width:100%;
+	display: flex;
+	justify-content: space-around;
+	height:700px;
+	position:relative;
+	left:0px;
+	top: 5190px
+}	
+.Coritnhains {
+	position: absolute;
+	display: flex;
+	top: 121px;
+	left: 355px;
+}	
+.Valor { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 1200px;
+	top:1219px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor1 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 1200px;
+	top:1880px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor2 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 1200px;
+	top:2530px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor3 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 1200px;
+	top:3180px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor4 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 1200px;
+	top:3836px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor5 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 450px;
+	top:1242px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}.Valor6 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 450px;
+	top:1880px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor7 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 450px;
+	top:2530px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor8 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 450px;
+	top:3180px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Valor9 { 
+	color:rgba(255, 0, 0, 1);
+	width:338px;
+	height:26px;
+	position:absolute;
+	left: 450px;
+	top:3840px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.Camisa1 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left: 450px;
+	top:680px;
+}
+.Camisa2 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:1200px;
+	top:680px;
+}
+.Camisa3 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:1200px;
+	top:1333px;
+}
+.Camisa4 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:1200px;
+	top:1986px;
+}
+.Camisa5 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:1200px;
+	top:2639px;
+}
+.Camisa6 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:1200px;
+	top:3292px;
+}
+.Camisa7 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:450px;
+	top:1333px;
+}
+.Camisa8 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:450px;
+	top:1986px;
+}
+.Camisa9 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:450px;
+	top:2639px;
+}
+.Camisa10 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:423px;
+	height:482px;
+	position:absolute;
+	left:450px;
+	top:3292px;
+}
+.Fallen {
+	position: absolute;
+	display: flex;
+	top: 4200px;
+	left: 550px;
+}
+.Leo {
+	position: absolute;
+	display: flex;
+	top: 4200px;
+	left: 750px;
+}
+.Kng {
+	position: absolute;
+	display: flex;
+	top: 4200px;
+	left: 950px;
+}
+.Kauez {
+	position: absolute;
+	display: flex;
+	top: 4200px;
+	left: 1150px;
+}
+.Vini {
+	position: absolute;
+	display: flex;
+	top: 4200px;
+	left: 1350px;
+}
+.Mapa {
+	position: absolute;
+	display: flex;
+	top: 4500px;
+	left: 680px;
+}
+.Compra a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:1284px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc1 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 1280px;
+	border-radius:24px;
+}
+.CaixaLanc { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 1168px;
+	border-radius:24px;
+}
+.Lanc { 
+	color:rgba(255, 255, 255, 1);
+	width:101px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:1172px;
+	font-family:Imprima;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.Manto { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:450px;
+	top:1198px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaI23 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left: 1199px;
+	top:1180px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaII23 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left: 1199px;
+	top:1833px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaIII22 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left: 1199px;
+	top:2486px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaII21 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left: 1199px;
+	top: 3139px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaRe19 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:1199px;
+	top:3792px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaTre23 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:450px;
+	top:1830px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaI22 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:450px;
+	top: 2485px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaCo22 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:450px;
+	top: 3130px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.CamisaIII21 { 
+	color:rgba(0, 0, 0, 1);
+	width:242px;
+	height:26px;
+	position:absolute;
+	left:450px;
+	top: 3795px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.Compra2 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:1917px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc2 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 1914px;
+	border-radius:24px;
+}
+.Compra3 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:2565px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc3 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 2560px;
+	border-radius:24px;
+}
+.Compra4 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:3216px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc4 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 3213px;
+	border-radius:24px;
+}
+.Compra5 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:470px;
+	top:3874px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc5 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:450px;
+	top: 3870px;
+	border-radius:24px;
+}
+.Compra6 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:1220px;
+	top:3874px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc6 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:1200px;
+	top: 3870px;
+	border-radius:24px;
+}
+.Compra7 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:1220px;
+	top:3215px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc7 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:1200px;
+	top: 3212px;
+	border-radius:24px;
+}
+.Compra8 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:1220px;
+	top:2567px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc8 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:1200px;
+	top: 2563px;
+	border-radius:24px;
+}
+.Compra9 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:1220px;
+	top:1916px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc9 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:1200px;
+	top: 1912px;
+	border-radius:24px;
+}
+.Compra10 a{ 
+	text-decoration: none; 
+	color:rgb(255, 255, 255);
+	width:149px;
+	height:21px;
+	position:absolute;
+	left:1220px;
+	top:1253px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.CaixaLanc10 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:127px;
+	height:28px;
+	position:absolute;
+	left:1200px;
+	top: 1250px;
+	border-radius:24px;
+}
+.Frete {
+	position: absolute;
+	display: flex;
+	top: 5400px;
+	left: 870px;
+}	
+.Car {
+	position: absolute;
+	display: flex;
+	top: 5400px;
+	left: 970px;
+}	
